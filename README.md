@@ -3,9 +3,9 @@
 The  software  product  entitled  “MYKSRTC – KSRTC AT YOUR FINGERTIP” is  a  web  based  application  that enables the depots of the Kerala State Road Transport Corporation [KSRTC] to manage and maintain their records and activities online thereby providing their facilities and informations effectively to be utilized by the users thus bringing the KSRTC one step closer to the people. This website is capable of storing, managing and maintaining details regarding the KSRTC depots and buses from the depots which are done by depot officials. Users can search for buses from source to destination for the specified time. The contact informations for every depots are provided in the enquiry section which can be very helpful. Users are frequently updated with news from depots.They can also interact with the depot officials to notify them with any complaints, suggestions or requests. Registered users can also make use of the Reachon Fastbuz online shipment booking facility. Thus, this website is very useful as it increases KSRTC’s interaction with people and provides its facilities much more efficiently and effectively to people.
 
 The main modules of this system include :
-  -	**Admin 
-  -	**Depots
-  -	**User 
+  -	**Admin** 
+  -	**Depot**
+  -	**User** 
   
   ---
   
