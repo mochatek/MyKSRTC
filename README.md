@@ -34,9 +34,10 @@ The main modules of this system include :
 ## How to Setup
 - Download the project files.
 - Install local Server on your machine.
+- Copy project files to C:\xampp\htdocs\KSRTC\
 - Start Apache and MySql from XAMPP tray.
 - Import the database **ksrtc.sql** into the local server.
-- Run the project on your web browser.:+1:
+- Run the project by typing http://localhost:85/ksrtc/userhome.php in your web browser.:+1:
 
 ---
 
